@@ -17,6 +17,22 @@ Columbia University
     <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
     <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
   </tr>
+    <tr>
+    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
+    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
+  </tr>
+    <tr>
+    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
+    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
+  </tr>
+    <tr>
+    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
+    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
+  </tr>
+    <tr>
+    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
+    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
+  </tr>
 </table>
 ### RL policies VS extending all pins
 ![1](GtL-mode-1.gif GtL-mode-1.gif)
