@@ -10,11 +10,11 @@ Columbia University
 <small>*<sup>\*</sup>denotes equal contribution*</small>
 
 ### [Project Page](https://fit2form.cs.columbia.edu/) | [Video](https://www.youtube.com/embed/utKHP3qb1bg) | [arXiv](https://arxiv.org/abs/2011.06498)
-###RL policies VS extending all pins
+### RL policies VS extending all pins
 ![](GtL-mode-1.gif)
-###RL policies VS extending all pins
+### RL policies VS extending all pins
 ![](GtL-mode-1.gif)
-###RL policies VS extending all pins
+### RL policies VS extending all pins
 ![](GtL-mode-1.gif)
 
 
