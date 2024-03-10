@@ -15,10 +15,10 @@ Columbia University
 <!-- 第一行 -->
 | <center>Text for Image 1</center>      | <center>Text for Image 2</center>   |
 | ---------------------------------------------- | ---------------------------------------------- |
-| <center>!1Alt text 1](GtL-mode-1.gif)</center>            |<center>![Alt text 2](GtL-mode-1.gif)</center>              |
+| <center>![Alt text 1](GtL-mode-1.gif)</center>            |<center>![Alt text 2](GtL-mode-1.gif)</center>              |
 
 <!-- 第二行 -->
-| <center>![Alt text 3](link_to_image_3)</center> | <center>![Alt text 4](link_to_image_4)</center> |
+| <center>![Alt text 3](GtL-mode-1.gif)</center> | <center>![Alt text 4](GtL-mode-1.gif)</center> |
 | ---------------------------------------------- | ---------------------------------------------- |
 | <center>Text for Image 3</center>               | <center>Text for Image 4</center>               |
 
