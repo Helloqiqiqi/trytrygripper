@@ -13,7 +13,7 @@ Columbia University
 ### RL policies(left) VS extending all pins (right)
 ![](all-rl-2.gif)
 ### RL policies VS extending all pins
-![1](GtL-mode-1.gif)(GtL-mode-1.gif)
+![1](GtL-mode-1.gif GtL-mode-1.gif)
 ### RL policies VS extending all pins
 ![](GtL-mode-1.gif)
 
