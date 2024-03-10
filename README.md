@@ -13,12 +13,12 @@ Columbia University
 ### RL policies(left) VS extending all pins (right)
 ![](all-rl-2.gif)
 <!-- 第一行 -->
-| ![Alt text 1](link_to_image_1) | ![Alt text 2](link_to_image_2) |
+| ![Alt text 1](GtL-mode-1.gif) | ![Alt text 2](GtL-mode-1.gif) |
 | ------------------------------ | ------------------------------ |
 | Text for Image 1               | Text for Image 2               |
 
 <!-- 第二行 -->
-| ![Alt text 3](link_to_image_3) | ![Alt text 4](link_to_image_4) |
+| ![Alt text 3](GtL-mode-1.gif) | ![Alt text 4](GtL-mode-1.gif) |
 | ------------------------------ | ------------------------------ |
 | Text for Image 3               | Text for Image 4               |
 
