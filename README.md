@@ -11,4 +11,7 @@ Columbia University
 
 ### [Project Page](https://fit2form.cs.columbia.edu/) | [Video](https://www.youtube.com/embed/utKHP3qb1bg) | [arXiv](https://arxiv.org/abs/2011.06498)
 
-![](GtL-mode-1.gif)
+![](GtL-mode-1.gif)(GtL-mode-1.gif)(GtL-mode-1.gif)
+
+
+
