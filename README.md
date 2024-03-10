@@ -11,7 +11,7 @@ Columbia University
 
 ### [Project Page](https://fit2form.cs.columbia.edu/) | [Video](https://www.youtube.com/embed/utKHP3qb1bg) | [arXiv](https://arxiv.org/abs/2011.06498)
 ### RL policies(left) VS extending all pins (right)
-![](GtL-mode-1.gif)
+![](all-rl-2.gif)
 ### RL policies VS extending all pins
 ![](GtL-mode-1.gif)
 ### RL policies VS extending all pins
