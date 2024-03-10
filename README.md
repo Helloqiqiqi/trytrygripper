@@ -12,28 +12,18 @@ Columbia University
 ### [Project Page](https://fit2form.cs.columbia.edu/) | [Video](https://www.youtube.com/embed/utKHP3qb1bg) | [arXiv](https://arxiv.org/abs/2011.06498)
 ### RL policies(left) VS extending all pins (right)
 ![](all-rl-2.gif)
-<table>
-  <tr>
-    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
-    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
-  </tr>
-    <tr>
-    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
-    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
-  </tr>
-    <tr>
-    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
-    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
-  </tr>
-    <tr>
-    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
-    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
-  </tr>
-    <tr>
-    <td><img src="GtL-mode-1.gif " alt="Alt text 1" /></td>
-    <td><img src="GtL-mode-1.gif" alt="Alt text 2" /></td>
-  </tr>
-</table>
+<!-- 第一行 -->
+| ![Alt text 1](link_to_image_1) | ![Alt text 2](link_to_image_2) |
+| ------------------------------ | ------------------------------ |
+| Text for Image 1               | Text for Image 2               |
+
+<!-- 第二行 -->
+| ![Alt text 3](link_to_image_3) | ![Alt text 4](link_to_image_4) |
+| ------------------------------ | ------------------------------ |
+| Text for Image 3               | Text for Image 4               |
+
+<!-- 依此类推，添加更多的行 -->
+
 ### RL policies VS extending all pins
 ![1](GtL-mode-1.gif GtL-mode-1.gif)
 ### RL policies VS extending all pins
