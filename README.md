@@ -1,4 +1,5 @@
 ## Demonstration of real-world experiments
+![](assets/Real-world/Sim2real.png)
 ![](assets/Real-world/real-world-1.gif)
 
 # pin-pression-gripper-video
